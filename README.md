@@ -22,6 +22,6 @@ This application allows users to manage student records efficiently using file h
 3. Run the following command:
    python student_management.py
 
-## 👩‍💻 Author
+##  Author
 Konathala Varshitha
 B.Tech - CSM (2027)
